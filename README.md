@@ -1,6 +1,6 @@
 # Clean Architecture Notes App
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/845077f00546781fbf4a/maintainability)](https://codeclimate.com/github/meshnesh/cleanArchitectureNotesApp/maintainability) [![Kotlin Version](https://img.shields.io/badge/kotlin-1.5.0-blue.svg)](http://kotlinlang.org/) [![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1.0.2-brightgreen)](https://developer.android.com/jetpack/compose) [![Maintainability](https://api.codeclimate.com/v1/badges/845077f00546781fbf4a/maintainability)](https://codeclimate.com/github/meshnesh/cleanArchitectureNotesApp/maintainability) [![Kotlin Version](https://img.shields.io/badge/kotlin-1.5.0-blue.svg)](http://kotlinlang.org/) [![License](https://img.shields.io/badge/License-Apache%202.0-lightgrey.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 This is an Android application that consumes latest [New York Times Popular Articles](https://www.nytimes.com) for the past 7 days
 
